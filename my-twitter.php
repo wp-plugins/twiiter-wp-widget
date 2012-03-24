@@ -4,17 +4,17 @@
  
  * Description: Twitter WP Widget is a new twitter feed grabber that allows you to place feeds from your twitter user account on your blog, ideal for keeping your visitors interested in your blog. There are several user defined options to allow you to tailor the widget to suit your needs.
  
- * Author: Greg Offey
+ * Author: Podz
  
- * Version: 1.0
+ * Version: 1.5
  
- * Author Email: gregcoffey192@yahoo.com
+ * Author Email:
  
  * License: GPLv2 or later 
  */
 
 
-/*  Copyright 2012  Greg Offey (gregcoffey192@yahoo.com)
+/*  Copyright 2012  
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation; either version 2 of the License, or
@@ -324,7 +324,7 @@ class twitter_wp_Widget extends WP_Widget {
 					<ul id="twitter_wp_tweetlist">
 						'. jltw_get_the_user_timeline($the_username, $the_nb_tweet, $show_avatar) .'
 						
-				<p style="font-size: 9px; text-align: center; margin: 10px 0;" >Powered by:	<a href="http://www.r4isdhc.co.uk/" title="r4i" target="_blank">r4i</a></p>
+				<p style="font-size: 9px; text-align: center; margin: 10px 0;" ></p>
 				</div>					
 					</ul>
 				<p class="twitter_wp_follow_us" style="margin: 10px 0;"> 

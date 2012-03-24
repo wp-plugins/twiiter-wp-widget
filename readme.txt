@@ -1,9 +1,9 @@
 === Twitter WP Widget ===
-Contributors: Greg Coffey
+Contributors: Podz
 Tags: twitter, twitter posts, twitter feeds, twitter widget, twitter plugin, twitter sidebar, twitter grabber
 Requires at least: 3.0.1
 Tested up to: 3.3.1
-Stable tag: 1.0
+Version: 1.5
 
 Twitter WP Widget is a new twitter feed grabber that allows you to place feeds from your twitter user account on your blog, ideal for keeping your visitors interested in your blog. There are several user defined options to allow you to tailor the widget to suit your needs.
 
